@@ -98,7 +98,8 @@ if __name__ == '__main__':
     data_points = 8
     data = [i for i in range(1, data_points + 1)]
     shuffle(data)
+    # data = [20, 14, 13, 5, 19, 23, 18, 16, 10, 15, 8, 12, 3, 4, 1, 24, 6, 9, 2, 17, 22, 21, 11, 7]
 
-    # bubble_sort(data)
+    bubble_sort(data)
     # quick_sort(data)
     # start_merge_sort(data)

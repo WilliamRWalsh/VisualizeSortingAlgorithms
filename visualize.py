@@ -60,5 +60,5 @@ class Visualize:
 
     def create_gif(self, name):
         # print(self.images)
-        imageio.mimsave(name + '.gif', self.images, duration=.5)
+        imageio.mimsave('gifs/' + name + '.gif', self.images, duration=.2)
 
