@@ -1,5 +1,5 @@
 # VisualizeSortingAlgorithms
-I wanted to practice writing a few sorting algorithms in Python and decided it would be interest to see them in action.
+I wanted to practice writing a few sorting algorithms in Python and decided it would be interesting to see them in action.
 ### Bubble Sort
 Avg. time complexity: 0(n^2)
 
